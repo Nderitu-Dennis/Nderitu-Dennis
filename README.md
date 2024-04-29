@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nderitu-Dennis
 - 👀 I’m interested in sofware development
-- 🌱 I’m currently learning Java spring boot,HTML/CSS,and Javascript
-- 💞️ I’m looking to collaborate on the above languages
+- 🌱 I’m currently upskilling. 
+- 💞️ I’m looking to collaborate on projects that mainly involve java/spring boot  
 - 📫 How to reach me ...nderitudenis87@gmail.com
 
 <!---
