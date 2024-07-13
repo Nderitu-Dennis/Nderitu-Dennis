@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nderitu-Dennis
 - 👀 I’m interested in sofware development
 - 🌱 I’m currently upskilling. 
-- 💞️ I’m looking to collaborate on projects 
+- 💞️ I’m looking to collaborate on projects involving React,Next.js ,Java and Springboot.
 - 📫 How to reach me ...nderitudenis87@gmail.com
 
 <!---
