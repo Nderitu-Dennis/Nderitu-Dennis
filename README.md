@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nderitu-Dennis
+- 👋 # Hi, I’m @Nderitu-Dennis
 - 👀 I’m interested in sofware development
 - 🌱 I’m currently upskilling. 
 - 📫 How to reach me ...nderitudenis87@gmail.com
