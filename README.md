@@ -13,7 +13,7 @@
 - **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**  
 - **Linux**  
 - **SQL Databases:** `MySQL`, `MS SQL Server`, `PostgreSQL`
-- `JSP``Servlets``JDBC``HQL`
+- `JSP` `Servlets` `JDBC` `HQL`
 
 ---
 
