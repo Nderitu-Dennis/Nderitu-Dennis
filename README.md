@@ -7,12 +7,13 @@
 ---
 
 ###  **My Stack**
-- **Java** 
+- **Java**
 - **Spring Boot**  
 - **Thymeleaf**  
 - **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**  
 - **Linux**  
-- **SQL Databases:** `MySQL`, `MS SQL Server`, `PostgreSQL`  
+- **SQL Databases:** `MySQL`, `MS SQL Server`, `PostgreSQL`
+- `JSP``Servlets``JDBC``HQL`
 
 ---
 
