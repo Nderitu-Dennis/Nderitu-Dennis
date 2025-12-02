@@ -10,7 +10,7 @@
 - **Java**
 - **Spring Boot**  
 - **Thymeleaf**  
-- **HTML5**, **CSS3**, **Bootstrap**, **Tailwind**  
+- **HTML5**, **CSS**, **Bootstrap**
 - **Linux**  
 - **SQL Databases:** `MySQL` `MS SQL Server` `PostgreSQL`
 - `JSP` `Servlets` `JDBC` `HQL`
