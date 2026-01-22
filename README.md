@@ -11,6 +11,7 @@
 - **Spring Boot**  
 - **Thymeleaf**  
 - **HTML5**, **CSS**, **Bootstrap**
+- **Angular**
 - **Linux**  
 - **SQL Databases:** `MySQL` `MS SQL Server` `PostgreSQL`
 - `JSP` `Servlets` `JDBC` `HQL`
