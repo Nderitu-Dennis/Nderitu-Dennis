@@ -8,11 +8,9 @@
 
 ###  **My Stack**
 - **Java**
-- **Spring Boot**  
-- **Thymeleaf**  
+- **Spring Boot**   
 - **HTML5**, **CSS**, **Bootstrap**
-- **Angular**
-- **Linux**  
+- **Angular** 
 - **SQL Databases:** `MySQL` `MS SQL Server` `PostgreSQL`
 - `JSP` `Servlets` `JDBC` `HQL`
 
