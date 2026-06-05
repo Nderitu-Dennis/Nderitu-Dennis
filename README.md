@@ -10,7 +10,7 @@
 - **Java**
 - **Spring Boot**   
 - **HTML5**, **CSS**, **Bootstrap**
-- **Angular** 
+- **Angular** , **TypeScript**
 - **SQL Databases:** `MySQL` `MS SQL Server` `PostgreSQL`
 - `JSP` `Servlets` `JDBC` `HQL`
 
