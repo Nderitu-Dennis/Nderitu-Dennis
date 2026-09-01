@@ -12,7 +12,7 @@
 - **HTML5**, **CSS**, **Bootstrap**
 - **Angular**, **TypeScript**
 - **SQL Databases:** `MySQL` `MS SQL Server` `PostgreSQL`
-- `JSP` `Servlets` `JDBC` `HQL`
+- **Legacy software:** `JSP` `Servlets` `JDBC` `HQL`
 
 ---
 - I value clear logic and building maintanable & scalable systems
